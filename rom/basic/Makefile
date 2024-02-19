@@ -1,5 +1,5 @@
-CA65=/usr/bin/ca65
-LD65=/usr/bin/ld65
+CA65=ca65
+LD65=ld65
 
 basic.bin: min_mon.o
 	$(LD65) -o basic.bin \
