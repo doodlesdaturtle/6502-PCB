@@ -2,6 +2,7 @@
 *.o
 *.bin
 *.dbg
+*.mpj
 rom/boot/generated/rom_defs.s
 
 # Project files
